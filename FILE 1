@@ -1,2 +1,15 @@
-# 01
-test 01
+cls:'
+' 
+'
+' [1] NEWS 2016/12/16
+' [2] 
+' [3] 
+' [4] BOOKS new!
+' [5] 
+' [6] 
+' [7] 
+' [8] 
+' [9] END
+'[10] 
+'
+inputA:?"MJ GET bokunimowakaru.github.io/MJ/";A*100;".txt"
